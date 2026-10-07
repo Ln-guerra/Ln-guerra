@@ -1,5 +1,8 @@
-<header padding=0 margin=0><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=header"/>
-
+<header padding=0 margin=0>
+<div align="center">
+  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+</div>
+  
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=7F00FF&width=435&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%28%C9%94%E2%97%94%E2%80%BF%E2%97%94%29%C9%94+%E2%99%A5+%E2%8A%B9" alt="Typing SVG" /></a>
   </a>
